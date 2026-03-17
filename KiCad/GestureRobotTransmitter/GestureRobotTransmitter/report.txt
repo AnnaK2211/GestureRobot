@@ -1,0 +1,1 @@
+Змінити символ U2 з 'D1_Mini_ESP32:WEMOS_D1_mini' на 'D1_Mini_ESP32:WEMOS_D1_mini': OK
